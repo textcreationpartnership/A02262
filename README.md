@@ -36,31 +36,35 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Christs passion a tragedie, with annotations.Christus patiens. EnglishGrotius, Hugo, 1583-1645.1640A
+
+1. TO THE KINGS MOST EXCELLENT MAJESTIE.
+
+1. THE PERSONS.
+Imprimatur:Tho: Wykes.September 17. 1639.
 #####Body#####
+THE FIRST ACT.JESVS.O Thou who govern'ſt what thou didſt createWith equall ſway, great Arbiter of Fa
+    _ THE FIRST ACT.
 
-1. THE FIRST ACT.
+    _ THE SECOND ACT.
 
-1. THE SECOND ACT.
+    _ THE THIRD ACT.
 
-1. THE THIRD ACT.
+    _ THE FOVRTH ACT.
 
-1. THE FOVRTH ACT.
+    _ THE FIFTH ACT.
+THe Tragedie of CHRIST'S PASSION was firſt written in Greek by Apollinarius of Laodicea,, Biſhop of 
+    _ ANNOTATIONS VPON THE FIRST ACT.
 
-1. THE FIFTH ACT.
+    _ ANNOTATIONS VPON THE SECOND ACT.
 
-1. ANNOTATIONS VPON THE FIRST ACT.
+    _ ANNOTATIONS VPON THE THIRD ACT.
 
-1. ANNOTATIONS VPON THE SECOND ACT.
+    _ ANNOTATIONS VPON THE FOVRTH ACT.
 
-1. ANNOTATIONS VPON THE THIRD ACT.
-
-1. ANNOTATIONS VPON THE FOVRTH ACT.
-
-1. ANNOTATIONS VPON THE FIFTH ACT.
+    _ ANNOTATIONS VPON THE FIFTH ACT.
 
 #####Back#####
-Christs passion a tragedie, with annotations.Christus patiens. EnglishGrotius, Hugo, 1583-1645.1640A
+Imprimatur.Ioannes Hanſley.September 27. 1639.
 **Types of content**
 
   * There are 1831 **verse** lines!
